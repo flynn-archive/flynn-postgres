@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/flynn/flynn-postgres",
+	"ImportPath": "github.com/flynn-archive/flynn-postgres",
 	"GoVersion": "go1.3",
 	"Deps": [
 		{
